@@ -21,9 +21,9 @@ Finding patterns and generating insights from data. Currently focused on NLP & T
 ---
 
 ### 🚀 Featured Projects
-- **[Parameter-Efficient Style-Controlled Summarization](ieeexplore.ieee.org/document/11454247):** LoRA Finetuning of Seq2Seq Transformer models for style-controlled summarization.
-- **[Feature Importance Analysis in PSE](link):** Feature Importance Analysis of Next-day stock returns prediction using SHAP, Random Forest, & Extreme Gradient Boosting.
-- **[Student Handbook RAG-Question Answering Chatbot](Link)** RAG System for Student Handbook Question Answering using LangChain, ChromaDB, & ChainLit.
+- **[Parameter-Efficient Style-Controlled Summarization](https://github.com/jldfernando/style_controlled_headlines):** LoRA Finetuning of Seq2Seq Transformer models for style-controlled summarization.[Paper](https://ieeexplore.ieee.org/document/11454247)
+- **[Feature Importance Analysis in PSE]():** Feature Importance Analysis of Next-day stock returns prediction using SHAP, Random Forest, & Extreme Gradient Boosting.
+- **[Student Handbook RAG-Question Answering Chatbot]():** RAG System for Student Handbook Question Answering using LangChain, ChromaDB, & ChainLit.
 
 ### 🛠️ My Toolbox
 - **Languages:** Python, SQL, R
